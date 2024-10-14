@@ -16,5 +16,5 @@ altura = input("ingresa la altura: ")
 altura =int(altura)
 area = base * altura
 perimetro = (base + altura) * 2
-print("el area del rectangulo es",area)
-print("el perimetro del rectangulo es",perimetro)
+print("El area del rectangulo es",area)
+print("El perimetro del rectangulo es",perimetro)
