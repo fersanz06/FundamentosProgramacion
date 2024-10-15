@@ -1,3 +1,16 @@
+"""
+Ejercicio 4:
+    Crea un programa que haga la suma, resta, multiplicación y divición 
+    de 2 números dados por el usuario e imprima el resultado.
+Entradas:
+    num1: int
+    num2: int
+Salidas:
+    suma: int
+    resta: int
+    multiplicación: int
+    divición: int
+"""
 numero1 = input ("Escribe el número 1: ")
 numero1 = int(numero1)
 numero2 = input ("Escribe el número 2: ")
