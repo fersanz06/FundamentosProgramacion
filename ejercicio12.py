@@ -19,5 +19,5 @@ x2 = input ("Ingresa el valor de x2: ")
 x2 = int (x2)
 y2 = input ("Ingresa el valor de y2: ")
 y2 = int (y2)
-distancia = ((x2-x1) ** 2 + (y2-y1) ** 2)
+distancia = ((x2-x1) ** 2 + (y2-y1) ** 2) ** 0.5
 print ("La distancia de los numeros es",distancia)
